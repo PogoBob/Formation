@@ -7,16 +7,16 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		C71A35CF2ACEA6590074D336 /* index2.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index2.html; sourceTree = "<group>"; };
-		C71A35D02ACEA6590074D336 /* style2.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = style2.css; sourceTree = "<group>"; };
+		C71A35CF2ACEA6590074D336 /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
+		C71A35D02ACEA6590074D336 /* style.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = style.css; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		C71A35C82ACEA61F0074D336 = {
 			isa = PBXGroup;
 			children = (
-				C71A35CF2ACEA6590074D336 /* index2.html */,
-				C71A35D02ACEA6590074D336 /* style2.css */,
+				C71A35CF2ACEA6590074D336 /* index.html */,
+				C71A35D02ACEA6590074D336 /* style.css */,
 			);
 			sourceTree = "<group>";
 		};
